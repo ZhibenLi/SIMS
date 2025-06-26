@@ -1,0 +1,307 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ratio.c
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(3,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(133,23): warning C4098: 'read_abundances': 'void' function returning a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(157,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(157,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(161,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(161,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(165,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(165,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(169,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(169,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(173,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(173,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(177,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(177,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(181,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(181,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(185,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(185,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(189,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(189,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(193,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(193,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(197,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(197,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(201,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(201,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(205,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(205,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(209,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(209,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(213,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(213,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(217,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(217,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(221,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(221,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(225,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(225,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(252,18): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(252,18): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(257,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(257,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(261,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(261,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(265,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(265,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(269,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(269,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(273,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(273,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(277,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(277,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(281,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(281,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(286,31): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(286,31): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(290,31): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(290,31): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(295,31): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(295,31): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(299,31): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(299,31): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(304,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(304,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(308,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(308,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(312,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(312,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(316,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(316,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(320,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(320,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(324,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(324,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(328,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(328,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(332,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(332,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(336,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(336,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(340,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(340,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(344,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(344,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(348,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(348,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(352,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(352,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(356,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(356,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(360,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(360,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(364,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(364,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(368,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(368,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(372,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(372,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(376,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(376,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(380,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(380,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(384,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(384,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(388,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(388,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(392,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(392,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(396,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(396,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(400,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(400,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(404,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(404,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(408,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(408,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(412,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(412,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(416,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(416,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(420,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(420,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(424,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(424,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(428,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(428,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(432,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(432,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(436,26): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(436,26): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(440,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(440,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(444,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(444,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(448,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(448,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(452,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(452,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(456,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(456,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(460,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(460,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(464,27): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(464,27): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(468,27): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(468,27): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(472,27): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(472,27): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(476,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(476,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(480,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(480,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(484,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(484,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(488,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(488,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(492,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(492,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(496,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(496,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(573,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(574,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(575,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(586,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(587,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(588,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(589,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(591,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(592,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(594,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(596,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(597,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(623,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(630,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(631,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(635,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(636,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(640,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(669,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(671,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(681,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(682,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(686,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(687,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(696,19): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(718,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(720,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(740,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(746,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(748,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(757,26): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(758,22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(759,27): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(760,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(772,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(773,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(774,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(778,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(783,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(788,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(793,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(801,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(805,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(809,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(816,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(817,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(820,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(821,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(822,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(824,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(825,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(826,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(565,11): warning C4101: 'step_xvalue': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(568,39): warning C4101: 'ox': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(566,38): warning C4101: 'xtick': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(568,21): warning C4101: 'intervals': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(566,45): warning C4101: 'num_xticks': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(566,15): warning C4101: 'num_lines': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(569,9): warning C4101: 'lastx': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(558,31): warning C4101: 'hColouredPen': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(569,16): warning C4101: 'lasty': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(567,33): warning C4101: 'ssize2': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(568,43): warning C4101: 'oy': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(843,23): warning C4098: 'print_calibration_plot': 'void' function returning a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(846,38): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(846,38): warning C4024: 'Escape': different types for formal and actual parameter 3
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(849,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(899,40): warning C4098: 'fill_in_label': 'void' function returning a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(903,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(910,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(911,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(915,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(916,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(917,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(918,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(923,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(924,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(925,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(926,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(927,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(987,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(997,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1007,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1045,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1058,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1074,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1082,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1090,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1102,21): warning C4013: 'return_extension' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1104,29): warning C4013: 'read_sims_binary' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1105,29): warning C4013: 'write_sims_text' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1107,26): warning C4013: 'read_sims_text' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1124,17): warning C4013: 'do_standard' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1135,17): warning C4013: 'select_file1' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1207,17): warning C4013: 'print_ratios' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1214,17): warning C4013: 'save_ratios' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1241,5): warning C4047: 'return': 'LRESULT' differs in levels of indirection from 'void *'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(962,25): warning C4101: 'hSaveCursor': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(962,13): warning C4101: 'hHourGlass': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(957,9): warning C4101: 'i': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1364,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1392,5): warning C4013: 'force_extension' undefined; assuming extern returning int
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1256,22): warning C4101: 'handle': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1261,10): warning C4101: 'line': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1255,12): warning C4101: 'j': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1518,26): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1518,26):
+  placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+  C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1518,26):
+  the missing variadic argument 4 is required by format string '%c'
+  C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1518,26):
+  this argument is used as a buffer size
+  
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1503,21): warning C4101: 'outfile': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1501,15): warning C4101: 'err': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1501,20): warning C4101: 'done': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1618,46): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1666,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1671,50): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1673,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1692,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1693,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1574,11): warning C4101: 'final_depth': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1570,15): warning C4101: 'success': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1773,57): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1774,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1922,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1814,12): warning C4101: 'j': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1962,9): warning C4101: 'i': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2014,38): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2014,38): warning C4024: 'Escape': different types for formal and actual parameter 3
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2021,27): warning C4778: 'sprintf_s' : unterminated format string '%'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2032,27): warning C4778: 'sprintf_s' : unterminated format string '%'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2041,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2006,53): warning C4101: 'width': unreferenced local variable
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2073,17): warning C4778: 'fprintf' : unterminated format string '%\n'
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2081,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(1711): warning C4715: 'do_standard': not all control paths return a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2057): warning C4715: 'print_ratios': not all control paths return a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(2087): warning C4715: 'save_ratios': not all control paths return a value
+C:\Users\RedLux\Desktop\SIMS_new\Project1\ratio.c(882): warning C4715: 'find_abundance': not all control paths return a value
+  Project1.vcxproj -> C:\Users\RedLux\Desktop\SIMS_new\Debug\SIMS_NEW.exe

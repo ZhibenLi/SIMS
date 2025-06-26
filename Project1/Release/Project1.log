@@ -1,0 +1,207 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  edit.c
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(110,18): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(110,18): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(110,18): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(114,15): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(114,15): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(114,15): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(118,17): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(118,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(118,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(122,16): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(122,16): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(122,16): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(126,17): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(126,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(126,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(130,24): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(130,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(130,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(134,24): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(134,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(134,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(138,24): warning C4133: 'function': incompatible types - from 'unsigned short [5]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(138,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(138,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(142,23): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(142,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(142,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(165,22): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(165,22): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(165,22): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(169,21): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(169,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(169,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(174,25): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(174,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(174,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(180,25): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(180,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(180,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(185,21): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(185,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(185,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(190,25): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(190,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(190,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(196,25): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(196,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(196,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(201,17): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(201,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(201,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(233,21): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(233,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(233,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(237,18): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(237,18): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(237,18): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(241,21): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(241,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(241,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(245,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(245,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(249,20): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(249,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(249,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(253,16): warning C4133: 'function': incompatible types - from 'unsigned short [7]' to 'LPCSTR'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(253,16): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(253,16): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(273,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(273,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(277,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(277,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(281,23): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(281,23): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(285,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(285,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(301,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(301,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(305,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(305,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(309,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(309,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(313,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(313,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(317,24): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(317,24): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(321,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(321,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(325,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(325,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(329,21): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(329,21): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(333,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(333,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(337,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(337,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(341,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(341,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(345,20): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(345,20): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(349,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(349,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(357,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(357,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(361,18): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(361,18): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(365,17): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(365,17): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(369,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(369,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(373,19): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(373,19): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(377,25): warning C4047: 'function': 'HMENU' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(377,25): warning C4024: 'CreateWindowExA': different types for formal and actual parameter 10
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(427,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(428,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(429,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(430,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(600,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(624,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(626,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(663,23): warning C4098: 'redraw_point': 'void' function returning a value
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(665,35): warning C4244: '=': conversion from 'float' to 'unsigned long', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(722,19): warning C4018: '<': signed/unsigned mismatch
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(725,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(729,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(733,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(734,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(770,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(771,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(772,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(784,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(785,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(786,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(795,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(797,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(798,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(801,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(803,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(804,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(829,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(843,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(844,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(848,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(849,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(853,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(865,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(870,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(873,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(878,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(880,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(887,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(888,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(890,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(892,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(894,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(899,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(904,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(913,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(916,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(921,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(927,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(931,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(941,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(944,19): warning C4018: '<': signed/unsigned mismatch
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(947,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(951,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(955,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(965,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(966,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(979,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(981,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(997,75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1002,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1003,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(764,33): warning C4101: 'ssize2': unreferenced local variable
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1039,18): warning C4013: 'print_file' undefined; assuming extern returning int
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1039,16): warning C4047: '=': 'HDC' differs in levels of indirection from 'int'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1042,27): warning C4098: 'print_plot': 'void' function returning a value
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1046,37): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1046,37): warning C4024: 'Escape': different types for formal and actual parameter 3
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1047,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1051,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1055,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1056,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1057,24): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1060,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1061,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1062,24): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1065,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1066,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1067,24): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1119,17): warning C4013: 'select_file1' undefined; assuming extern returning int
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1137,17): warning C4013: 'return_extension' undefined; assuming extern returning int
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1524,5): warning C4047: 'return': 'LRESULT' differs in levels of indirection from 'void *'
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1100,11): warning C4101: 'fn': unreferenced local variable
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1103,25): warning C4101: 'hSaveCursor': unreferenced local variable
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1103,13): warning C4101: 'hHourGlass': unreferenced local variable
+G:\software_upgrade 3.0\SIMS_new\Project1\edit.c(1098,12): warning C4101: 'err': unreferenced local variable
+  Generating code
+  2 of 65 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> G:\software_upgrade 3.0\SIMS_new\Release\SIMS_NEW.exe
