@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "txt_to_csv", "txt_to_csv.pyproj", "{3FECEE2E-B068-4657-8D41-4CE99C10C956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FECEE2E-B068-4657-8D41-4CE99C10C956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FECEE2E-B068-4657-8D41-4CE99C10C956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB72AC4-8277-471E-9E3A-10C6DF0AA553}
+	EndGlobalSection
+EndGlobal
